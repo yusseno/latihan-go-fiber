@@ -1,7 +1,7 @@
 package http
 
 import (
-	"latihan/internal/delivery/messaging/http/middleware"
+	"latihan/internal/delivery/http/middleware"
 	"latihan/internal/model"
 	"latihan/internal/usecase"
 

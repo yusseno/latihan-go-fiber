@@ -1,9 +1,10 @@
 package config
 
 import (
-	"latihan/internal/delivery/messaging/http"
-	"latihan/internal/delivery/messaging/http/middleware"
-	"latihan/internal/delivery/messaging/http/route"
+	"latihan/internal/delivery/http"
+	"latihan/internal/delivery/http/middleware"
+	"latihan/internal/delivery/http/route"
+
 	"latihan/internal/gateway/messaging"
 	"latihan/internal/repository"
 	"latihan/internal/usecase"

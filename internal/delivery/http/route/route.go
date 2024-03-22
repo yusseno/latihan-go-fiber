@@ -1,7 +1,7 @@
 package route
 
 import (
-	"latihan/internal/delivery/messaging/http"
+	"latihan/internal/delivery/http"
 
 	"github.com/gofiber/fiber/v2"
 )

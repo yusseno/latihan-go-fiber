@@ -11,7 +11,7 @@
     },
     "database": {
       "username": "root",
-      "password": "",
+      "password": "YU55en09.",
       "host": "localhost",
       "port": 3306,
       "name": "golang-fiber",
